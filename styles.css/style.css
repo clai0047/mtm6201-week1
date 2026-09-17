@@ -2,6 +2,7 @@
 text-align: center;
 font-family:cursive}
 
-.dl{background-color: lightblue;}
+.dl{background-color: lightblue;
+text-align: center;}
 
 .img{center: auto; display: block; margin-left: auto; margin-right: auto;}
